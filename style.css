@@ -1,0 +1,30 @@
+body{
+    background-color: #df99c0;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+
+.botao{
+    text-decoration: none;
+    color: #e96dc4;
+    margin: 30px;
+    font-size: 30px;
+}
+
+.sda{
+    padding-bottom: 40px;
+}
